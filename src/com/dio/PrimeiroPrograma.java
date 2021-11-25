@@ -1,5 +1,7 @@
 package com.dio;
 
+import java.io.ObjectInputStream.GetField;
+
 import com.dio.model.Gato;
 
 public class PrimeiroPrograma {
